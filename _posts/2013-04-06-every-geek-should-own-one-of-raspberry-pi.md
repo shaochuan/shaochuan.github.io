@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Every Geek Should Own One of Raspberry Pi(s)"
-tagline: 
+description: ""
+category: Tutorial
+tags: [Raspberry Pi, Tutorial]
 ---
 {% include JB/setup %}
 
