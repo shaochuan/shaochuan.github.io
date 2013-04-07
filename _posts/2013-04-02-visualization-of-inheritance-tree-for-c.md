@@ -2,8 +2,8 @@
 layout: post
 title: "Inheritance Hierarchy Visualization for C++"
 description: ""
-category: 
-tags: [clang, c++, python]
+category: Python
+tags: [clang, C++, python]
 ---
 {% include JB/setup %}
 
