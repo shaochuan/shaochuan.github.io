@@ -21,7 +21,7 @@ Matt Richardson combines the bike, Raspberry Pi and a pico projector to build a 
 
 I can see a lot of interesting projects like this will come out of this year with Raspberry Pi(s).
 
-## How I Get My Raspberry Pi?
+## How Do I Get My Raspberry Pi?
 Officially, [Allied Electronics](http://www.alliedelec.com/lp/120626raso/) is selling Raspberry Pi at $35.00. However, at the time of this blog post is written, the available stock count is zero at AE. Hence, I bought mine from [amazon.com](http://www.amazon.com/Raspberry-Pi-Model-Revision-512MB/dp/B009SQQF9C/ref=sr_1_1?ie=UTF8&qid=1365235257&sr=8-1&keywords=raspberry+pi) at higher price. Despite the fact that it is more expensive at amazon.com, you have the benefits of rapid delivery and the customer service if you are unlucky to get a bad hardware.
 
 ## What You Need In Addition To Raspberry Pi
